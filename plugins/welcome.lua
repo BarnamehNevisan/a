@@ -60,7 +60,7 @@ local function description_rules(msg, nama)
       end
       local sambutan = "سلام "..nama.."\nبه گروه '"..string.gsub(msg.to.print_name, "_", " ").."'\nخوش اومدی \n برای دیدن دستورات ربات help رو ارسال کن
 اینجا یک گروه کاملا امنیتی هست پس سعی نکن که اسپم کنی
-@code_x\n"
+برای خارج شدن هم kickme رو بفرست\n"
       local text = sambutan..about..rules.."\n"
       local receiver = get_receiver(msg)
       send_large_msg(receiver, text, ok_cb, false)
@@ -90,7 +90,7 @@ local function run(msg, matches)
       description_rules(msg, nama)
    elseif matches[1] == "chat_del_user" then
        local bye_name = msg.action.user.first_name
-       return 'بری دیگه برنگردی '..bye_name
+       return 'بری دیگه برنگردی 👋'..bye_name
    end
 end
 
