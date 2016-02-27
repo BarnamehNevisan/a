@@ -1,7 +1,7 @@
 local function run(msg)
     if msg.to.type == 'chat' and not is_momod(msg) then
         chat_del_user('chat#id'..msg.to.id, 'user#id'..msg.from.id, ok_cb, true)
-        return 'ÙØ±Ø³ØªØ§Ø¯Ù† Ø§Ù…ÙˆØ¬ÛŒ Ù…Ù…Ù†ÙˆØ¹ Ø§Ø³Øª'
+        return 'It is forbidden to use emoji , bye'
     end
 end
 
