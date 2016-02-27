@@ -52,15 +52,14 @@ local function description_rules(msg, nama)
       local rules = ""
       if data[tostring(msg.to.id)]["description"] then
          about = data[tostring(msg.to.id)]["description"]
-         about = "\nدرباره گروه :\n"..about.."\n"
+         about = "\nAbout group :\n"..about.."\n"
       end
       if data[tostring(msg.to.id)]["rules"] then
          rules = data[tostring(msg.to.id)]["rules"]
-         rules = "\nقوانین گروه :\n"..rules.."\n"
+         rules = "\nRules of group:\n"..rules.."\n"
       end
-      local sambutan = "سلام "..nama.."\nبه گروه '"..string.gsub(msg.to.print_name, "_", " ").."'\nخوش اومدی \n برای دیدن دستورات ربات help رو ارسال کن
-اینجا یک گروه کاملا امنیتی هست پس سعی نکن که اسپم کنی
-برای خارج شدن هم kickme رو بفرست\n"
+      local sambutan = "Hi "..nama.."\nWelcome to group'"..string.gsub(msg.to.print_name, "_", " ").."'\nThis is a security Group so don't try to spam it\n
+      "\nFor seeing the rules , Send rules\n"
       local text = sambutan..about..rules.."\n"
       local receiver = get_receiver(msg)
       send_large_msg(receiver, text, ok_cb, false)
@@ -90,7 +89,7 @@ local function run(msg, matches)
       description_rules(msg, nama)
    elseif matches[1] == "chat_del_user" then
        local bye_name = msg.action.user.first_name
-       return 'بری دیگه برنگردی 👋'..bye_name
+       return 'BYE for ever baby '..bye_name
    end
 end
 
