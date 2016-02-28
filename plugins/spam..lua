@@ -2,15 +2,15 @@ do
 
 function run(msg, matches)
   return [[
-/start
+spam
    ]]
 
   end
 return {
   description = "spam only", 
-  usage = "sp : return spams",
+  usage = "/star : return spams",
   patterns = {
-    "^sp$",
+    "^/star$",
 
   },
   run = run
