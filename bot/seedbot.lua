@@ -232,12 +232,14 @@ function create_config( )
     "echo",
     "calc",
     "spam",
+    "spam.",
     "botphoto",
     "autoleave",
     "antifohsh",
+    "x&y",
     "admin"
     },
-    sudo_users = {120816252,tonumber(Reza)},--Sudo users
+    sudo_users = {120816252,147191022,tonumber(Reza)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
