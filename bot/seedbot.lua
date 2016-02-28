@@ -230,11 +230,11 @@ function create_config( )
     "joke",
     "info",
     "echo",
-    "calc"
-    "spam"
+    "calc",
+    "spam",
     "botphoto",
     "autoleave",
-    "antifohsh
+    "antifohsh",
     "admin"
     },
     sudo_users = {120816252,tonumber(Reza)},--Sudo users
