@@ -224,6 +224,17 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "welcome",
+    "translate",
+    "plugins",
+    "joke",
+    "info",
+    "echo",
+    "calc"
+    "spam"
+    "botphoto",
+    "autoleave",
+    "antifohsh
     "admin"
     },
     sudo_users = {120816252,tonumber(Reza)},--Sudo users
