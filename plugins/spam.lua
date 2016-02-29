@@ -2011,6 +2011,448 @@ return {
   usage = "spam : return spams",
   patterns = {
     "^[Ss][Pp][Aa][Mm]$",
+    "^ed Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister
+Spam Of Fuck
+Fuck
+Fuck
+Fuck
+Fucked your mother
+Fuck
+Fuck
+Fuck
+Fucked Your Sister$",
 
   },
   run = run
